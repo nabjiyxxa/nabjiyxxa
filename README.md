@@ -30,3 +30,8 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=nabjiyxxa&style=flat-square&color=blue" alt=""/>
 
 </div>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?nabjiyxxa&theme=dark&background=000000)](https://git.io/streak-stats)
