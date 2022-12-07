@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-
+    <h1>
+    Hi there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
   <img src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif" width="100"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/pavel-grishanov-4a9414190/">
@@ -25,8 +28,5 @@ Here are some ideas to get you started:
   </div>
 
   <img src="https://komarev.com/ghpvc/?username=nabjiyxxa&style=flat-square&color=blue" alt=""/>
-  <h1>
-    Hi there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+
 </div>
