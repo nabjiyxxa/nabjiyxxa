@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif" width="100"/>
-</div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/pavel-grishanov-4a9414190/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/pavel-grishanov-4a9414190/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
 
-<img src="https://komarev.com/ghpvc/?username=nabjiyxxa&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=nabjiyxxa&style=flat-square&color=blue" alt=""/>
+</div>
