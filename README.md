@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **nabjiyxxa/nabjiyxxa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
+  ### Hi there 👋
   <img src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif" width="100"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/pavel-grishanov-4a9414190/">
